@@ -4,15 +4,31 @@
 
 * **Ứng dụng này hỗ trợ cho dự án:** [HTML Test Bank Manager](https://github.com/kienma11vn/HTML-Test-Bank-Manager-VN)
 
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/533a5866-7e08-4b84-9a0d-9a7b8b6a1d42" />
+
 ---
 
 ## 🌟 Tính năng chính
 
 * **OCR & Giải bài tập bằng AI**: Tải lên tối đa **5 ảnh** câu hỏi (bằng cách chọn file hoặc bấm `Ctrl+V` để dán trực tiếp từ clipboard) và tự động nhận diện, giải câu hỏi sang dạng text.
+  
+  <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/5eed24c7-e74f-4eee-b6a5-da292ae66925" />
+
 * **Xem trước ảnh thông minh**: Quản lý danh sách thumbnail trực quan, hỗ trợ tự động phóng to tối đa 80% kích thước màn hình khi di chuột qua ảnh (hover).
+  
+  <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/e41e2b10-8919-4b26-a3cb-e94e27348dab" />
+
 * **Chuyển đổi Text sang JSON**: Dựa vào file HTML mẫu được tải lên, AI sẽ phân tích cú pháp câu hỏi và phản hồi đúng chuẩn cấu trúc JSON.
+
+  <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b5f052dc-9854-4592-b4a0-bf92f9611e38" />
+
 * **Quản lý Cấu hình (Presets)**: Hỗ trợ lưu trữ lên đến **30 Presets** cài đặt bao gồm API Key và mô hình Gemini (ví dụ: `gemini-2.5-flash`, `gemini-2.5-pro`).
+
+  <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/9e1f8abf-0ccf-4e62-8f6e-3aa263d7a3da" />
+
 * **Xử lý bất đồng bộ (Multi-threading)**: Đảm bảo giao diện người dùng (GUI) luôn mượt mà, không bị treo/đơ trong quá trình chờ AI phản hồi.
+
+  <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/5131834c-ca70-4d21-9a4f-8e3bb26af2f4" />
 
 ---
 
