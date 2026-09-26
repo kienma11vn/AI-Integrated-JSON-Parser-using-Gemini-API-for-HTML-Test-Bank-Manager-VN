@@ -22,7 +22,7 @@
 
   <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b5f052dc-9854-4592-b4a0-bf92f9611e38" />
 
-* **Quản lý Cấu hình (Presets)**: Hỗ trợ lưu trữ lên đến **30 Presets** cài đặt bao gồm API Key và mô hình Gemini (ví dụ: `gemini-2.5-flash`, `gemini-2.5-pro`).
+* **Quản lý Cấu hình (Presets)**: Hỗ trợ lưu trữ lên đến **30 Presets** cài đặt bao gồm API Key và mô hình Gemini (ví dụ: `gemini-3.6-flash`, `gemini-3.5-pro`).
 
   <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/9e1f8abf-0ccf-4e62-8f6e-3aa263d7a3da" />
 
