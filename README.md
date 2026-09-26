@@ -74,6 +74,27 @@ python app.py
 └── README.md           # Tài liệu hướng dẫn dự án
 ```
 
+## 📦 Đóng gói ứng dụng thành file thực thi (.EXE)
+
+Bạn có thể đóng gói ứng dụng thành file `.exe` chạy độc lập bằng **PyInstaller**:
+
+1. Cài đặt PyInstaller:
+```bash
+pip install pyinstaller
+```
+
+2. Chạy lệnh đóng gói (kèm file icon `image.ico`):
+```bash
+pyinstaller --noconfirm --onefile --windowed --icon=image.ico app.py"
+```
+
+3. File thực thi sẽ nằm trong thư mục `dist/`.
+
+```text
+dist/
+└── app.exe    # File thực thi có thể chia sẻ và chạy trực tiếp
+```
+
 ---
 
 ## 📝 Giấy phép (License)
