@@ -86,6 +86,7 @@ python app.py
 .
 ├── app.py              # Mã nguồn chính của ứng dụng
 ├── requirements.txt    # Danh sách thư viện cần thiết
+├── Example.html        # File HTML mẫu để chiết xuất cấu trúc JSON chuẩn định dạng
 ├── image.ico           # Biểu tượng icon ứng dụng
 └── README.md           # Tài liệu hướng dẫn dự án
 ```
